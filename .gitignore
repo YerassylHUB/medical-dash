@@ -22,5 +22,8 @@ build/
 out/
 .turbo/
 
+# TypeScript build info
+*.tsbuildinfo
+
 # editor
 .vscode/
